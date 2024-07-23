@@ -1,3 +1,3 @@
-Bloomfilter を使ってデータベースを暗号化するシステム
+Bloomfilter を使ってハッシュ化したデータをデータベースに保存するシステム
 
 Visual Studio で動作
